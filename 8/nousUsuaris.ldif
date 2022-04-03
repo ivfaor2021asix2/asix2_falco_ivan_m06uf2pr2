@@ -1,0 +1,14 @@
+dn: uid=usr1007,cn=UsuarisDomini,ou=UsuarisGrups,dc=fjeclot,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn:  usr1007
+sn:  usr1007
+uidNumber:  1007
+gidNumber: 101
+homeDirectory: /home/usr1007
+loginShell: /bin/bash
+

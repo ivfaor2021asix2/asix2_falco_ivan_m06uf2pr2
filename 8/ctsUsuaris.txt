@@ -1,0 +1,3 @@
+objectClass: userPassword
+objectClass: userPassword
+objectClass: userPassword
